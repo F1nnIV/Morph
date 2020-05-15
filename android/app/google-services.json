@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387668590738",
+    "firebase_url": "https://morph-b1866.firebaseio.com",
+    "project_id": "morph-b1866",
+    "storage_bucket": "morph-b1866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387668590738:android:ce7f14360effaa0da4664b",
+        "android_client_info": {
+          "package_name": "com.F1nnIV.morph_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387668590738-ko56hujit4vv46v1hsn8auda5opu9usn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCCZkG4XpYnb2n9vd_M2bd1EIOXfZBO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387668590738-ko56hujit4vv46v1hsn8auda5opu9usn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
